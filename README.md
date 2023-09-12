@@ -9,17 +9,19 @@
 
 3. Install server dependencies:
 
-cd backend
-npm install
+    cd backend
+
+    npm install
 
 3. Install client dependencies:
 
-cd frontend
-npm install
+    cd frontend
+   
+    npm install
 
-4. Start the server and client:
+5. Start the server and client:
 
-npm start
+    npm start
 
 5. Access the application in your web browser at http://localhost:3000.
 
